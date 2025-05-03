@@ -24,4 +24,4 @@ app.MapControllers();
 
 app.Run();
 
-Console.WriteLine("Hello Word")
+Console.WriteLine("Hello Word");
